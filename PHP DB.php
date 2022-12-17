@@ -3,7 +3,7 @@ session_start();
 $DbHost = 'Localhost';
 $DbUser = 'root';
 $DbPass =  '';
-$DbName  = 'university';
+$DbName  = 'ALSTATH';
 
 $connect = mysqli_connect ($DbHost,$DbUser,$DbPass,$DbName);
 
